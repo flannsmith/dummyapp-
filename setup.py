@@ -5,7 +5,7 @@ Created on 13 Feb 2018
 '''
 from setuptools import setup
 
-setup(name="systeminfo",
+setup(name="systeminfo_flask",
       version="0.1",
       description="Basic system information for COMP30670",
       url="",
